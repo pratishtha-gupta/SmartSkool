@@ -1,6 +1,6 @@
 # 🎓 School Management Dashboard
 
-A responsive and interactive School Management Dashboard** built using **Next.js 15**, **Tailwind CSS**, **Recharts**, **React Big Calendar**, and **React Hook Form with Zod validation**.
+A responsive and interactive **School Management Dashboard** built using **Next.js 15**, **Tailwind CSS**, **Recharts**, **React Big Calendar**, and **React Hook Form with Zod validation**.
 This project includes multiple dashboards (Admin, Student, Parent), dynamic data visualization, reusable components, form handling, and calendar integration — all tailored for a school management system.
 
 ---
